@@ -23,7 +23,7 @@ The pitch deck template below is a quick start:
   * Timebox doing your first draft, then show it to
     people, gather feedback, and work to improve it.
 
-  * WHen you pitch a specific person or team, such as an 
+  * When you pitch a specific person or team, such as an 
     investor or firm, customize your pitch deck to them.
   
 
@@ -246,7 +246,7 @@ For pitch deck advice from many experts and companies, see [Joel's pitch deck ad
 ## Tracking
 
 * Package: pitch-deck-template
-* Version: 4.0.0
+* Version: 4.0.1
 * Updated: 2021-09-11
 * Tracker: 5a4d1698f3c1dde0a30743a306ca3267
 * Notices: Copyright 2016-2021 by SixArm® (https://sixarm.com)
