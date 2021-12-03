@@ -169,6 +169,8 @@ The pitch deck template below is a quick start:
 
 * How does your success rely on these partnerships?
 
+* Prepare for questions about partner recruiting, retention, reliability, and ROI.
+
 
 ### Financial Slide
 
