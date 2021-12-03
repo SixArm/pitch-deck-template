@@ -120,6 +120,10 @@ The pitch deck template below is a quick start:
 
 * Highlight any validiations, comparisons, and upcoming experiments.
 
+* Prepare to discuss direct sales and multiple kinds of indirect sales.
+
+* Prepare for questions about sales funnels and sales scoring. 
+
 
 ### Marketing Slide
 
