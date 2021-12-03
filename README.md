@@ -156,6 +156,8 @@ The pitch deck template below is a quick start:
 
 * Identify key positions you need to fill, and why they are critical to company growth.
 
+* Prepare for questions about team recruiting and team metrics.
+
 
 ### Partner Slide
 
