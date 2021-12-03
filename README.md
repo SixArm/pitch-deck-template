@@ -118,7 +118,7 @@ The pitch deck template below is a quick start:
 
 * How does your pricing fit into the larger market?
 
-* Show any validiation.
+* Highlight any validiations, comparisons, and upcoming experiments.
 
 
 ### Marketing Slide
@@ -131,7 +131,7 @@ The pitch deck template below is a quick start:
 
 * If your plan is different than your competitors, then highlight the differences.
 
-* Highlight validiation, comps, and upcoming experiments.
+* Highlight any validiations, comparisons, and upcoming experiments.
 
 * Prepare to discuss Total Addressable Market, Service Addressable Market, Service Obtainable Market.
 
@@ -246,8 +246,8 @@ For pitch deck advice from many experts and companies, see [Joel's pitch deck ad
 ## Tracking
 
 * Package: pitch-deck-template
-* Version: 4.0.1
-* Updated: 2021-09-11
+* Version: 4.0.2
+* Updated: 2021-12-03T01:44:23Z
 * Tracker: 5a4d1698f3c1dde0a30743a306ca3267
 * Notices: Copyright 2016-2021 by SixArm® (https://sixarm.com)
 * License: GPL or GFDL or contact us for a custom license
