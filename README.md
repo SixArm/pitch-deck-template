@@ -32,11 +32,11 @@ The pitch deck template below is a quick start:
 
 ### Problem Slide
 
-* What is the problem, such as the pain point or chief complaint? 
+* What is the problem, such as the pain point or unfulfilled need? 
 
 * What is a relatable example, such as one person's typical story?
 
-* Tip: Cover the basics of who, what, where, when, how, why.
+* Tip: Focus on the issue by using the person's perspective, not yours.
 
 * Bonus: Show why the problem is especially relevant right now.
 
@@ -215,6 +215,8 @@ The pitch deck template below is a quick start:
 
 * Tip: Are you clear? Make your writing short and simple.
 
+* Tip: Are you complete? Explain who, what, where, when, why, and how.
+
 * Tip: Are you compelling? Tell real user stories with real emotion.
 
 * Tip: Are you comparable? Provide context to help people understand.
@@ -254,7 +256,7 @@ For pitch deck advice from many experts and companies, see [Joel's pitch deck ad
 ## Tracking
 
 * Package: pitch-deck-template
-* Version: 4.0.2
+* Version: 4.1.0
 * Updated: 2021-12-03T01:44:23Z
 * Tracker: 5a4d1698f3c1dde0a30743a306ca3267
 * Notices: Copyright 2016-2021 by SixArm® (https://sixarm.com)
