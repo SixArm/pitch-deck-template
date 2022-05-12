@@ -114,6 +114,8 @@ The pitch deck template below is a quick start:
 
 * What is the purchasing process for your target customers?
 
+* What are your sales channels and how do you use them?
+
 * Describe the competitive landscape.
 
 * How does your pricing fit into the larger market?
@@ -122,14 +124,16 @@ The pitch deck template below is a quick start:
 
 * Prepare to discuss direct sales and multiple kinds of indirect sales.
 
-* Prepare for questions about sales funnels and sales scoring. 
+* Prepare for questions about sales funnels, sales scoring, and sales compensation.
 
 
 ### Marketing Slide
 
 * Talk about how you gain customers’ attention.
 
-* Show a solid grasp of how to reach your target market, and what channels to use.
+* Show a solid grasp of how to reach your target market.
+
+* What are your marketing channels and how do you use them?
 
 * Investors know finding and winning customers can be the biggest challenge for a startup.
 
@@ -150,26 +154,34 @@ The pitch deck template below is a quick start:
 
 * Why are these the right people to build this company?
 
-* What experience do you all have that others don’t?
+* What experience do the teammates have that other people or organizations don’t have?
 
 * Include key advisors, investors, and board members. 
 
 * Identify key positions you need to fill, and why they are critical to company growth.
 
-* Prepare for questions about team recruiting and team metrics.
+* Prepare to discuss team recruiting, team retention, and team metrics.
+
+* Prepare for questions about roles, such as advisors, investors, board members.
+
 
 
 ### Partner Slide
 
 * Talk about any strategic partnerships that are important to success.
 
-* Do you have any key partners for sales, or marketing, or distribution?
+* Do you have any key partners for sales, marketing, distribution, or development?
 
+* What are your partners' channels and how do they use them?
+* 
 * Do you have intellectual property that partners can use, such as patents, trademarks, brands, data, etc.?
 
 * How does your success rely on these partnerships?
 
-* Prepare for questions about partner recruiting, retention, reliability, and ROI.
+* Prepare to discuss partner recruiting, retention, reliability, and ROI.
+
+* Prepare for questions about coopetition, value-add value streams, and joint projects.
+
 
 
 ### Financial Slide
@@ -188,7 +200,8 @@ The pitch deck template below is a quick start:
 
 * Prepare comparisons of similar companies in related industries.
 
-* Prepare to discuss any underlying assumptions that you’ve made.
+* Prepare to discuss all the underlying assumptions that you’re making.
+
 
 
 ### Investment Slide
@@ -213,26 +226,52 @@ The pitch deck template below is a quick start:
 
 ### Tip improvements
 
-* Tip: Are you clear? Make your writing short and simple.
+* Are you clear? Make your writing short and simple.
 
-* Tip: Are you complete? Explain who, what, where, when, why, and how.
+* Are you complete? Explain who, what, where, when, why, and how.
 
-* Tip: Are you compelling? Tell real user stories with real emotion.
+* Are you compelling? Tell real user stories with real emotion.
 
-* Tip: Are you comparable? Provide context to help people understand.
+* Are you comparable? Provide context to help people understand.
 
-* Tip: Are you realistic? Show your evidence, validations, and references.
+* Are you realistic? Show your evidence, validations, and references.
 
 
 ### Bonus improvements
 
-* Bonus: Any synergies as more people participate? A.k.a. network effects.
+* Any synergies as more people participate? A.k.a. platform power, network effects.
 
-* Bonus: Any benefits for people to tell others? A.k.a. viral effects.
+* Any benefits for people to tell others? A.k.a. promotion power, viral effects.
 
-* Bonus: Any feedback loops that will accelerate scaling? A.k.a. flywheels.
+* Any feedback loops that will accelerate scaling? A.k.a. propeller power, flywheel effects.
 
-* Bonus: Any protections on user acquisition and/or retention? A.k.a. moats.
+* Any protections on user acquisition and/or retention? A.k.a. protection power, moat effects.
+
+
+### Focus experiments
+
+* Can you focus more on customers and less on yourself?
+
+* Can you focus more on benefits and less on features?
+
+* Can you focus more on offers and less on one product?
+  
+* Can you focus more on channels and less on one market?
+
+* Can you focus more on coopetition and less on competition?
+
+* Can you focus more on growth areas and less on sunk areas?
+
+
+### Audience validations
+
+* How should your audience answer "Why now, why us, why this"?
+
+* How should your audience answer "What does success look like?"
+
+* How should your audience answer "What can I do to help you"?
+
+* How should your audience answer "How to say yes right now"?
 
 
 ### Preparation improvements
@@ -256,8 +295,8 @@ For pitch deck advice from many experts and companies, see [Joel's pitch deck ad
 ## Tracking
 
 * Package: pitch-deck-template
-* Version: 4.1.0
-* Updated: 2021-12-03T01:44:23Z
+* Version: 4.2.0
+* Updated: 2022-05-12T10:59:31Z
 * Tracker: 5a4d1698f3c1dde0a30743a306ca3267
 * Notices: Copyright 2016-2021 by SixArm® (https://sixarm.com)
 * License: GPL or GFDL or contact us for a custom license
