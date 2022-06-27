@@ -299,5 +299,5 @@ For pitch deck advice from many experts and companies, see [Joel's pitch deck ad
 * Updated: 2022-05-12T10:59:31Z
 * Tracker: 5a4d1698f3c1dde0a30743a306ca3267
 * Notices: Copyright 2016-2021 by SixArm® (https://sixarm.com)
-* License: GPL or GFDL or contact us for a custom license
+* License: GPL-2.0-or-later or GFDL-1.3-or-later or contact us
 * Contact: Joel Parker Henderson (joel@sixarm.com)
