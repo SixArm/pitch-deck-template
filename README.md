@@ -173,7 +173,7 @@ The pitch deck template below is a quick start:
 * Do you have any key partners for sales, marketing, distribution, or development?
 
 * What are your partners' channels and how do they use them?
-* 
+
 * Do you have intellectual property that partners can use, such as patents, trademarks, brands, data, etc.?
 
 * How does your success rely on these partnerships?
