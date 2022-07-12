@@ -368,9 +368,9 @@ For pitch deck advice from many experts and companies, see [Joel's pitch deck ad
 ## Tracking
 
 * Package: pitch-deck-template
-* Version: 4.2.0
-* Updated: 2022-05-12T10:59:31Z
+* Version: 4.3.0
+* Updated: 2022-07-12T18:56:19Z
 * Tracker: 5a4d1698f3c1dde0a30743a306ca3267
-* Notices: Copyright 2016-2021 by SixArm® (https://sixarm.com)
+* Notices: Copyright 2016-2022 by SixArm® (https://sixarm.com)
 * License: GPL-2.0-or-later or GFDL-1.3-or-later or contact us
 * Contact: Joel Parker Henderson (joel@sixarm.com)
