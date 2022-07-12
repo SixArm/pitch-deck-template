@@ -120,7 +120,7 @@ The pitch deck template below is a quick start:
 
 * How does your pricing fit into the larger market?
 
-* Highlight any validiations, comparisons, and upcoming experiments.
+* Highlight any validations, comparisons, and upcoming experiments.
 
 * Prepare to discuss direct sales and multiple kinds of indirect sales.
 
