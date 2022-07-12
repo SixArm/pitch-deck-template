@@ -139,7 +139,7 @@ The pitch deck template below is a quick start:
 
 * If your plan is different than your competitors, then highlight the differences.
 
-* Highlight any validiations, comparisons, and upcoming experiments.
+* Highlight any validations, comparisons, and upcoming experiments.
 
 * Prepare to discuss Total Addressable Market, Service Addressable Market, Service Obtainable Market.
 
@@ -150,19 +150,19 @@ The pitch deck template below is a quick start:
 
 * Talk about your team.
 
-* Highlight key team members, their previous accomplishments, and key expertise they bring.
+* Highlight key team members, key expertise, and relevant accomplishments.
 
 * Why are these the right people to build this company?
 
-* What experience do the teammates have that other people or organizations don’t have?
+* What experience do the teammates have that other people or groups don’t?
 
 * Include key advisors, investors, and board members. 
 
-* Identify key positions you need to fill, and why they are critical to company growth.
+* Identify key positions you need to fill, and why they are critical to growth.
 
 * Prepare to discuss team recruiting, team retention, and team metrics.
 
-* Prepare for questions about roles, such as advisors, investors, board members.
+* Prepare for questions on roles, such as advisors, investors, and the board.
 
 
 
@@ -170,17 +170,17 @@ The pitch deck template below is a quick start:
 
 * Talk about any strategic partnerships that are important to success.
 
-* Do you have any key partners for sales, marketing, distribution, or development?
+* Do you have key partners for sales, marketing, distribution, or development?
 
 * What are your partners' channels and how do they use them?
 
-* Do you have intellectual property that partners can use, such as patents, trademarks, brands, data, etc.?
+* Can your partners leverage your IP, such as branding, marks, data, APIs?
 
 * How does your success rely on these partnerships?
 
 * Prepare to discuss partner recruiting, retention, reliability, and ROI.
 
-* Prepare for questions about coopetition, value-add value streams, and joint projects.
+* Prepare for questions on coopetition, value-add streams, and joint ventures.
 
 
 
@@ -190,9 +190,9 @@ The pitch deck template below is a quick start:
 
 * Show your realistic sales forecast, profit and loss forecast, and cash flow forecast for 3 years.
 
-* Limit yourself to charts that show sales, total customers, total expenses, and profits.
+* Limit any charts to sales, total customers, total expenses, and profits.
 
-* Do not show in-depth spreadsheets because these are difficult to read in a presentation format.
+* Omit in-depth spreadsheets because these are hard to read in a presentation.
 
 * Try to explain your growth based on traction you already have.
 
@@ -224,7 +224,7 @@ The pitch deck template below is a quick start:
 ## How to improve your pitch
 
 
-### Tip improvements
+### Better writing can improve your pitch
 
 * Are you clear? Make your writing short and simple.
 
@@ -237,18 +237,18 @@ The pitch deck template below is a quick start:
 * Are you realistic? Show your evidence, validations, and references.
 
 
-### Bonus improvements
+### Power effects can improve your pitch
 
 * Any synergies as more people participate? A.k.a. platform power, network effects.
 
-* Any benefits for people to tell others? A.k.a. promotion power, viral effects.
+* Any accelerators for people telling others? A.k.a. promotion power, viral effects.
 
-* Any feedback loops that will accelerate scaling? A.k.a. propeller power, flywheel effects.
+* Any feedback loops that speed up scaling? A.k.a. propeller power, flywheel effects.
 
-* Any protections on user acquisition and/or retention? A.k.a. protection power, moat effects.
+* Any defensibility on acquisition or retention? A.k.a. protection power, moat effects.
 
 
-### Focus experiments
+### Stronger focus can improve your pitch
 
 * Can you focus more on customers and less on yourself?
 
@@ -263,15 +263,25 @@ The pitch deck template below is a quick start:
 * Can you focus more on growth areas and less on sunk areas?
 
 
-### Audience validations
+### Validation after the presentation can improve your pitch
 
-* How should your audience answer "Why now, why us, why this"?
+* How does a customer prospect answer "How are you solving this now?"
 
-* How should your audience answer "What does success look like?"
+* How does a customer prospect answer "Who do you know who needs this?"
 
-* How should your audience answer "What can I do to help you"?
+* How does a customer prospect answer "What are the steps to buy now?"
 
-* How should your audience answer "How to say yes right now"?
+* How does a stakeholder answer "Why now, why us, why this"?
+
+* How does a stakeholder answer "What does customer success look like?"
+
+* How does a stakeholder answer "What are the most important next steps?"
+
+* How does an investor answer "What is the #1 way to improve the pitch"?
+
+* How does an investor answer "Who should we be talking to about this"?
+
+* How does an investor answer "What gets you to yes to invest now"?
 
 
 ### Preparation improvements
