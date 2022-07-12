@@ -243,9 +243,11 @@ The pitch deck template below is a quick start:
 
 * Any accelerators for people telling others? A.k.a. promotion power, viral effects.
 
-* Any feedback loops that speed up scaling? A.k.a. propeller power, flywheel effects.
+* Any economies of scale that lower costs? A.k.a. production power, scale effects.
 
-* Any defensibility on acquisition or retention? A.k.a. protection power, moat effects.
+* Any defensibility of acquisition or retention? A.k.a. protection power, moat effects.
+
+* Any feedback loops that speed up growth? A.k.a. propeller power, flywheel effects.
 
 
 ### Stronger focus can improve your pitch
@@ -282,6 +284,64 @@ The pitch deck template below is a quick start:
 * How does an investor answer "Who should we be talking to about this"?
 
 * How does an investor answer "What gets you to yes to invest now"?
+
+
+## Pitch deck appendix
+
+
+### Business and Financial Metrics as per A16Z
+
+* Bookings vs. Revenue
+
+* Annual Recurring Revenue (ARR) vs. Total Revenue - distinct from GMV
+
+* Total Contract Value (TCV) vs. Annual Contract Value (ACV)
+
+* Average Revenue Per User (ARPU) and LTV (Life-Time Value)
+
+* Gross Merchandise Value (GMV) vs. Gross Profit vs. Revenue
+
+* Unearned or Deferred Revenue … and billings
+
+* CAC (Customer Acquisition Cost) - blended vs. paid, organic vs. inorganic
+
+* Total Addressable Market (TAM)
+
+* Gross Margins - ideally get to 80%-90%
+
+* Sell-Through Rate & Inventory Turns
+
+
+
+### Product and Engagement Metrics as per A16Z
+
+* Active Users - e.g. Weekly Active Users (WAU), or similar. Define "Active".
+
+* Active Engagement - e.g. number of photos viewed, or liked, or shared, etc.
+
+* Month-on-month (MoM) growth - Compounded Monthly Growth Rate (CMGR)
+
+* Churn - Monthly unit churn, retention by cohort, etc. Show net &amp; gross.
+
+* Burn Rate - Monthly cash burn, etc. Show net &amp; gross.
+
+* Active Users - e.g. Weekly Active Users (WAU), or similar; define “active”.
+
+* Active Engagement - e.g. number of photos viewed, or liked, or shared, etc.
+
+* Cohort Analysis - especially metrics that show newer cohorts improving.
+
+* Net Promoter Score (NPS) - e.g. by active users and/or by cohort.
+
+* Month-on-month (MoM) growth - Compounded Monthly Growth Rate (CMGR)
+
+* Churn - monthly unit churn, retention by cohort, etc.; show net & gross.
+
+* Burn Rate - Monthly cash burn, etc.; show net & gross.
+
+* Sources of Traffic - direct traffic vs. organic traffic vs. direct social etc.
+
+* Customer Concentration Risk: revenue of largest customers / total revenue.
 
 
 ### Preparation improvements
