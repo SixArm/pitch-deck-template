@@ -89,7 +89,7 @@ The pitch deck template below is a quick start:
 
 * What is your current state and future state, such as milestones and plans?
 
-* What do you need for success, such as people, processes, materials, money?
+* What do you need and when, such as people, processes, materials, money?
 
 * Tip: Focus on near-term realistic steps, and how you are achieving them.
 
