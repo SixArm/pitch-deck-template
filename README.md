@@ -315,16 +315,6 @@ The pitch deck template below is a quick start:
 
 ### Product and Engagement Metrics as per A16Z
 
-* Active Users - e.g. Weekly Active Users (WAU), or similar. Define "Active".
-
-* Active Engagement - e.g. number of photos viewed, or liked, or shared, etc.
-
-* Month-on-month (MoM) growth - Compounded Monthly Growth Rate (CMGR)
-
-* Churn - Monthly unit churn, retention by cohort, etc. Show net &amp; gross.
-
-* Burn Rate - Monthly cash burn, etc. Show net &amp; gross.
-
 * Active Users - e.g. Weekly Active Users (WAU), or similar; define “active”.
 
 * Active Engagement - e.g. number of photos viewed, or liked, or shared, etc.
@@ -337,7 +327,7 @@ The pitch deck template below is a quick start:
 
 * Churn - monthly unit churn, retention by cohort, etc.; show net & gross.
 
-* Burn Rate - Monthly cash burn, etc.; show net & gross.
+* Burn Rate - monthly cash burn, etc.; show net & gross.
 
 * Sources of Traffic - direct traffic vs. organic traffic vs. direct social etc.
 
