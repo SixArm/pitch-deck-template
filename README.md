@@ -312,7 +312,6 @@ The pitch deck template below is a quick start:
 * Sell-Through Rate & Inventory Turns
 
 
-
 ### Product and Engagement Metrics as per A16Z
 
 * Active Users - e.g. Weekly Active Users (WAU), or similar; define “active”.
@@ -332,6 +331,19 @@ The pitch deck template below is a quick start:
 * Sources of Traffic - direct traffic vs. organic traffic vs. direct social etc.
 
 * Customer Concentration Risk: revenue of largest customers / total revenue.
+
+
+### Power and Effects
+
+* Platform power and network effects: when more users use it, it improves.
+
+* Promotion power and viral effects: how it spreads from one user to another.
+
+* Protection power and moat effects: defensibility of acquisition and retention.
+
+* Production power and scale effects: when growth increases, costs decrease.
+
+* Propeller power and flywheel effects: how loops increase lift and momentum.
 
 
 ### Preparation improvements
