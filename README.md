@@ -221,6 +221,80 @@ The pitch deck template below is a quick start:
 * Prepare to provide your capitalization table or similar equity statement.
 
 
+
+## Pitch deck appendix
+
+
+### Business and Financial Metrics Slide - as per A16Z
+
+* Bookings vs. Revenue
+
+* Annual Recurring Revenue (ARR) vs. Total Revenue - distinct from GMV
+
+* Total Contract Value (TCV) vs. Annual Contract Value (ACV)
+
+* Average Revenue Per User (ARPU) and LTV (Life-Time Value)
+
+* Gross Merchandise Value (GMV) vs. Gross Profit vs. Revenue
+
+* Unearned or Deferred Revenue … and billings
+
+* CAC (Customer Acquisition Cost) - blended vs. paid, organic vs. inorganic
+
+* Total Addressable Market (TAM)
+
+* Gross Margins - ideally get to 80%-90%
+
+* Sell-Through Rate & Inventory Turns
+
+
+### Product and Engagement Metrics Slide - as per A16Z
+
+* Active Users - e.g. Weekly Active Users (WAU), or similar; define “active”.
+
+* Active Engagement - e.g. number of photos viewed, or liked, or shared, etc.
+
+* Cohort Analysis - especially metrics that show newer cohorts improving.
+
+* Net Promoter Score (NPS) - e.g. by active users and/or by cohort.
+
+* Month-on-month (MoM) growth - Compounded Monthly Growth Rate (CMGR)
+
+* Churn - monthly unit churn, retention by cohort, etc.; show net & gross.
+
+* Burn Rate - monthly cash burn, etc.; show net & gross.
+
+* Sources of Traffic - direct traffic vs. organic traffic vs. direct social etc.
+
+* Customer Concentration Risk: revenue of largest customers / total revenue.
+
+
+### Power Effects Slide
+
+* Platform power and network effects: when more users use it, it improves.
+
+* Promotion power and viral effects: how it spreads from one user to another.
+
+* Protection power and moat effects: defensibility of acquisition and retention.
+
+* Production power and scale effects: when growth increases, costs decrease.
+
+* Propeller power and flywheel effects: how loops increase lift and momentum.
+
+
+### Teammate Slide (one slide per person)
+
+* Photo, name, role and/or title
+
+* Contact email, phone, link, etc.
+
+* Key expertise
+
+* Key accomplishments
+
+* Objectives and Key Results (OKRs) or equivalent for next period
+
+
 ## How to improve your pitch
 
 
@@ -235,19 +309,6 @@ The pitch deck template below is a quick start:
 * Are you comparable? Provide context to help people understand.
 
 * Are you realistic? Show your evidence, validations, and references.
-
-
-### Power effects can improve your pitch
-
-* Any synergies as more people participate? A.k.a. platform power, network effects.
-
-* Any accelerators for people telling others? A.k.a. promotion power, viral effects.
-
-* Any economies of scale that lower costs? A.k.a. production power, scale effects.
-
-* Any defensibility of acquisition or retention? A.k.a. protection power, moat effects.
-
-* Any feedback loops that speed up growth? A.k.a. propeller power, flywheel effects.
 
 
 ### Stronger focus can improve your pitch
@@ -284,79 +345,6 @@ The pitch deck template below is a quick start:
 * How does an investor answer "Who should we be talking to about this"?
 
 * How does an investor answer "What gets you to yes to invest now"?
-
-
-## Pitch deck appendix
-
-
-### Business and Financial Metrics as per A16Z
-
-* Bookings vs. Revenue
-
-* Annual Recurring Revenue (ARR) vs. Total Revenue - distinct from GMV
-
-* Total Contract Value (TCV) vs. Annual Contract Value (ACV)
-
-* Average Revenue Per User (ARPU) and LTV (Life-Time Value)
-
-* Gross Merchandise Value (GMV) vs. Gross Profit vs. Revenue
-
-* Unearned or Deferred Revenue … and billings
-
-* CAC (Customer Acquisition Cost) - blended vs. paid, organic vs. inorganic
-
-* Total Addressable Market (TAM)
-
-* Gross Margins - ideally get to 80%-90%
-
-* Sell-Through Rate & Inventory Turns
-
-
-### Product and Engagement Metrics as per A16Z
-
-* Active Users - e.g. Weekly Active Users (WAU), or similar; define “active”.
-
-* Active Engagement - e.g. number of photos viewed, or liked, or shared, etc.
-
-* Cohort Analysis - especially metrics that show newer cohorts improving.
-
-* Net Promoter Score (NPS) - e.g. by active users and/or by cohort.
-
-* Month-on-month (MoM) growth - Compounded Monthly Growth Rate (CMGR)
-
-* Churn - monthly unit churn, retention by cohort, etc.; show net & gross.
-
-* Burn Rate - monthly cash burn, etc.; show net & gross.
-
-* Sources of Traffic - direct traffic vs. organic traffic vs. direct social etc.
-
-* Customer Concentration Risk: revenue of largest customers / total revenue.
-
-
-### Power and Effects
-
-* Platform power and network effects: when more users use it, it improves.
-
-* Promotion power and viral effects: how it spreads from one user to another.
-
-* Protection power and moat effects: defensibility of acquisition and retention.
-
-* Production power and scale effects: when growth increases, costs decrease.
-
-* Propeller power and flywheel effects: how loops increase lift and momentum.
-
-
-### Teammate Slide (one slide per person)
-
-* Photo, name, role and/or title
-
-* Contact email, phone, link, etc.
-
-* Key expertise
-
-* Key accomplishments
-
-* Objectives and Key Results (OKRs) or equivalent for next period
 
 
 ### Preparation improvements
