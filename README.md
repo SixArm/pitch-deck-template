@@ -346,6 +346,19 @@ The pitch deck template below is a quick start:
 * Propeller power and flywheel effects: how loops increase lift and momentum.
 
 
+### Teammate Slide (one slide per person)
+
+* Photo, name, role and/or title
+
+* Contact email, phone, link, etc.
+
+* Key expertise
+
+* Key accomplishments
+
+* Objectives and Key Results (OKRs) or equivalent for next period
+
+
 ### Preparation improvements
 
 * [Strategic Balanced Scorecard (SBS)](https://github.com/joelparkerhenderson/strategic-balanced-scorecard)
