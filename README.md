@@ -225,6 +225,27 @@ The pitch deck template below is a quick start:
 ## Pitch deck appendix
 
 
+### Business Model Canvas
+
+* Value propositions: what value do we deliver to the customer?
+
+* Revenue streams: what are target customers truly willing to pay and how?
+
+* Customer relationships: what do each of our customer segments expect?
+
+* Distribution channels: what do each of our customer segments use and want?
+
+* Cost structures: what are the most important costs for our business model?
+
+* Target segments: who are our most important prospects/customers and why?
+
+* Key activities: e.g. for our propositions, segments, channels, and streams?
+
+* Key activities: e.g. for our propositions, segments, channels, and streams?
+
+* Partner collaborations: e.g. who are our key partners, for what, and why?
+
+
 ### Business and Financial Metrics Slide - as per A16Z
 
 * Bookings vs. Revenue
