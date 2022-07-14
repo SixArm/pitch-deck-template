@@ -287,15 +287,17 @@ The pitch deck template below is a quick start:
 
 ### Power + Effects
 
-* Platform power + network effects: when more users use it, it improves.
+* Platform power + network effects: when more users join, it improves.
+
+* Proficiency power + learning effects: when skill increases, it improves.
+
+* Propeller power + flywheel effects: when revolutions speed up, lift increases.
+
+* Production power + scale effects: when size increases, unit costs decrease.
 
 * Promotion power + viral effects: how it spreads from one user to another.
 
-* Protection power + moat effects: defensibility of acquisition and retention.
-
-* Production power + scale effects: when growth increases, costs decrease.
-
-* Propeller power + flywheel effects: how loops increase lift and momentum.
+* Protection power + moat effects: how it defends acquisition and retention.
 
 
 ### Network effect value
