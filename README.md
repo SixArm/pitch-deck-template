@@ -246,7 +246,7 @@ The pitch deck template below is a quick start:
 * Partner collaborations: e.g. who are our key partners, for what, and why?
 
 
-### Business and Financial Metrics Slide - as per A16Z
+### Business and Financial Metrics - as per A16Z
 
 * Bookings vs. Revenue
 
@@ -269,7 +269,7 @@ The pitch deck template below is a quick start:
 * Sell-Through Rate & Inventory Turns
 
 
-### Product and Engagement Metrics Slide - as per A16Z
+### Product and Engagement Metrics - as per A16Z
 
 * Active Users - e.g. Weekly Active Users (WAU), or similar; define “active”.
 
@@ -290,20 +290,20 @@ The pitch deck template below is a quick start:
 * Customer Concentration Risk: revenue of largest customers / total revenue.
 
 
-### Power Effects Slide
+### Power + Effects
 
-* Platform power and network effects: when more users use it, it improves.
+* Platform power + network effects: when more users use it, it improves.
 
-* Promotion power and viral effects: how it spreads from one user to another.
+* Promotion power + viral effects: how it spreads from one user to another.
 
-* Protection power and moat effects: defensibility of acquisition and retention.
+* Protection power + moat effects: defensibility of acquisition and retention.
 
-* Production power and scale effects: when growth increases, costs decrease.
+* Production power + scale effects: when growth increases, costs decrease.
 
-* Propeller power and flywheel effects: how loops increase lift and momentum.
+* Propeller power + flywheel effects: how loops increase lift and momentum.
 
 
-### Pirate Metrics Slide
+### Pirate Metrics
 
 * Acquisition: How are people discovering our product or company?
 
@@ -316,7 +316,7 @@ The pitch deck template below is a quick start:
 * Revenue: How exactly are our personas willing to pay for this product?
 
 
-### Teammate Slide (one slide per person)
+### Teammate 1 (one slide per person)
 
 * Photo, name, role and/or title
 
