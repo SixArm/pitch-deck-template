@@ -298,6 +298,15 @@ The pitch deck template below is a quick start:
 * Propeller power + flywheel effects: how loops increase lift and momentum.
 
 
+### Network effect value
+
+* Broadcasting model: value ∝ n, for users who receive. Example: MSNBC.
+
+* Peer-to-peer model: value ∝ n², for users who interact. Example: Facebook.
+
+* Group-forming model: value ∝ 2ⁿ, for users in active groups. Example: Slack.
+
+
 ## Pitch Deck Appendix C - Metrics
 
 
