@@ -221,8 +221,36 @@ The pitch deck template below is a quick start:
 * Prepare to provide your capitalization table or similar equity statement.
 
 
+## Pitch Deck Appendix A - Team
 
-## Pitch deck appendix
+
+### Teammate 1
+
+* Photo, name, role and/or title
+
+* Contact email, phone, link, etc.
+
+* Key expertise
+
+* Key accomplishments
+
+* Objectives and Key Results (OKRs) or equivalent for next period
+
+
+### Teammate 2
+
+* Photo, name, role and/or title
+
+* Contact email, phone, link, etc.
+
+* Key expertise
+
+* Key accomplishments
+
+* Objectives and Key Results (OKRs) or equivalent for next period
+
+
+## Pitch Deck Appendix B - Lenses
 
 
 ### Business Model Canvas
@@ -244,6 +272,33 @@ The pitch deck template below is a quick start:
 * Key activities: e.g. for our propositions, segments, channels, and streams?
 
 * Partner collaborations: e.g. who are our key partners, for what, and why?
+
+
+### SWOT
+
+* Strengths: how is the project at an advantage relative to others?
+
+* Weaknesses: how is the project at a disadvantage relative to others?
+
+* Opportunities: elements in the environment that could cause wins.
+
+* Threats: elements in the environment that could cause losses.
+
+
+### Power + Effects
+
+* Platform power + network effects: when more users use it, it improves.
+
+* Promotion power + viral effects: how it spreads from one user to another.
+
+* Protection power + moat effects: defensibility of acquisition and retention.
+
+* Production power + scale effects: when growth increases, costs decrease.
+
+* Propeller power + flywheel effects: how loops increase lift and momentum.
+
+
+## Pitch Deck Appendix C - Metrics
 
 
 ### Business and Financial Metrics - as per A16Z
@@ -290,19 +345,6 @@ The pitch deck template below is a quick start:
 * Customer Concentration Risk: revenue of largest customers / total revenue.
 
 
-### Power + Effects
-
-* Platform power + network effects: when more users use it, it improves.
-
-* Promotion power + viral effects: how it spreads from one user to another.
-
-* Protection power + moat effects: defensibility of acquisition and retention.
-
-* Production power + scale effects: when growth increases, costs decrease.
-
-* Propeller power + flywheel effects: how loops increase lift and momentum.
-
-
 ### Pirate Metrics
 
 * Acquisition: How are people discovering our product or company?
@@ -315,18 +357,6 @@ The pitch deck template below is a quick start:
 
 * Revenue: How exactly are our personas willing to pay for this product?
 
-
-### Teammate 1 (one slide per person)
-
-* Photo, name, role and/or title
-
-* Contact email, phone, link, etc.
-
-* Key expertise
-
-* Key accomplishments
-
-* Objectives and Key Results (OKRs) or equivalent for next period
 
 
 ## How to improve your pitch
