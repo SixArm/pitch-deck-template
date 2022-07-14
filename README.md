@@ -282,6 +282,19 @@ The pitch deck template below is a quick start:
 * Propeller power and flywheel effects: how loops increase lift and momentum.
 
 
+### Pirate Metrics Slide
+
+* Acquisition: How are people discovering our product or company?
+
+* Activation: How are these people taking the actions we want them to?
+
+* Retention: How well do users continue to engage with the product?
+
+* Referral: How well do users like the product enough to tell others?
+
+* Revenue: How exactly are our personas willing to pay for this product?
+
+
 ### Teammate Slide (one slide per person)
 
 * Photo, name, role and/or title
