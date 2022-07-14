@@ -300,7 +300,7 @@ The pitch deck template below is a quick start:
 
 ### Network effect value
 
-* Broadcasting model: value ∝ n, for users who receive. Example: MSNBC.
+* Broadcasting model: value ∝ n, for users who receive. Example: CNN.
 
 * Peer-to-peer model: value ∝ n², for users who interact. Example: Facebook.
 
