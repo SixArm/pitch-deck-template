@@ -309,6 +309,29 @@ The pitch deck template below is a quick start:
 * Group-forming model: value ∝ 2ⁿ, for users in active groups. Example: Slack.
 
 
+### Valuation Models
+
+* Discounted Cash Flow (DCF): based on expected future cash flows.
+
+* Risk-adjusted Net Present Value (rNPV): based on probabilities and DCF.
+
+* First Chicago Method: based on weighted averages of startup situations.
+
+* Market & Transaction Comparables: based on deal comps or precedents.
+
+* Asset-Based Valuation: based on book value, liquidation value, etc.
+
+* Venture Capital Method: based on expected rates of return at exit.
+
+* Decision Tree Analysis: based on probability forecasting of outcomes
+
+* Berkus Method: based on progress toward commercialization activities.
+
+* Scorecard Valuation Method: based on 7 regional/vertical characteristics.
+
+* Risk Factor Summation Method: based on 12 seed/startup characteristics.
+
+
 ## Pitch Deck Appendix C - Metrics
 
 
