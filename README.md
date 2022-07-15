@@ -309,29 +309,6 @@ The pitch deck template below is a quick start:
 * Group-forming model: value ∝ 2ⁿ, for users in active groups. Example: Slack.
 
 
-### Valuation Models
-
-* Discounted Cash Flow (DCF): based on expected future cash flows.
-
-* Risk-adjusted Net Present Value (rNPV): based on probabilities and DCF.
-
-* First Chicago Method: based on weighted averages of startup situations.
-
-* Market & Transaction Comparables: based on deal comps or precedents.
-
-* Asset-Based Valuation: based on book value, liquidation value, etc.
-
-* Venture Capital Method: based on expected rates of return at exit.
-
-* Decision Tree Analysis: based on probability forecasting of outcomes
-
-* Berkus Method: based on progress toward commercialization activities.
-
-* Scorecard Valuation Method: based on 7 regional/vertical characteristics.
-
-* Risk Factor Summation Method: based on 12 seed/startup characteristics.
-
-
 ## Pitch Deck Appendix C - Metrics
 
 
@@ -391,6 +368,28 @@ The pitch deck template below is a quick start:
 
 * Revenue: How exactly are our personas willing to pay for this product?
 
+
+### Valuation
+
+* Discounted Cash Flow (DCF): based on expected future cash flows.
+
+* Risk-adjusted Net Present Value (rNPV): based on probabilities and DCF.
+
+* First Chicago Method: based on weighted averages of startup situations.
+
+* Market & Transaction Comparables: based on deal comps or precedents.
+
+* Asset-Based Valuation: based on book value, liquidation value, etc.
+
+* Venture Capital Method: based on expected rates of return at exit.
+
+* Decision Tree Analysis: based on probability forecasting of outcomes
+
+* Berkus Method: based on progress toward commercialization activities.
+
+* Scorecard Valuation Method: based on 7 regional/vertical characteristics.
+
+* Risk Factor Summation Method: based on 12 seed/startup characteristics.
 
 
 ## How to improve your pitch
@@ -466,7 +465,7 @@ For pitch deck advice from many experts and companies, see [Joel's pitch deck ad
 ## Tracking
 
 * Package: pitch-deck-template
-* Version: 4.3.0
+* Version: 4.4.0
 * Updated: 2022-07-12T18:56:19Z
 * Tracker: 5a4d1698f3c1dde0a30743a306ca3267
 * Notices: Copyright 2016-2022 by SixArm® (https://sixarm.com)
