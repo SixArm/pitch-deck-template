@@ -392,35 +392,7 @@ The pitch deck template below is a quick start:
 * Risk Factor Summation Method: based on 12 seed/startup characteristics.
 
 
-## How to improve your pitch
-
-
-### Better writing can improve your pitch
-
-* Are you clear? Make your writing short and simple.
-
-* Are you complete? Explain who, what, where, when, why, and how.
-
-* Are you compelling? Tell real user stories with real emotion.
-
-* Are you comparable? Provide context to help people understand.
-
-* Are you realistic? Show your evidence, validations, and references.
-
-
-### Stronger focus can improve your pitch
-
-* Can you focus more on customers and less on yourself?
-
-* Can you focus more on benefits and less on features?
-
-* Can you focus more on offers and less on one product?
-  
-* Can you focus more on channels and less on one market?
-
-* Can you focus more on coopetition and less on competition?
-
-* Can you focus more on growth areas and less on sunk areas?
+## Questions: gather feeback from stakeholders
 
 
 ### Questions for customers and prospects
@@ -455,6 +427,36 @@ The pitch deck template below is a quick start:
 
 * What can get you to yes, to help now?
 
+
+## How to improve your pitch
+
+
+### Better writing can improve your pitch
+
+* Are you clear? Make your writing short and simple.
+
+* Are you complete? Explain who, what, where, when, why, and how.
+
+* Are you compelling? Tell real user stories with real emotion.
+
+* Are you comparable? Provide context to help people understand.
+
+* Are you realistic? Show your evidence, validations, and references.
+
+
+### Stronger focus can improve your pitch
+
+* Can you focus more on customers and less on yourself?
+
+* Can you focus more on benefits and less on features?
+
+* Can you focus more on offers and less on one product?
+  
+* Can you focus more on channels and less on one market?
+
+* Can you focus more on coopetition and less on competition?
+
+* Can you focus more on growth areas and less on sunk areas?
 
 
 ### Preparation improvements
