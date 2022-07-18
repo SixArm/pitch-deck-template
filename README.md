@@ -425,12 +425,6 @@ The pitch deck template below is a quick start:
 
 ### Validation after the presentation can improve your pitch
 
-* How does a customer prospect answer "How are you solving this now?"
-
-* How does a customer prospect answer "Who do you know who needs this?"
-
-* How does a customer prospect answer "What are the steps to buy now?"
-
 * How does a stakeholder answer "Why now, why us, why this"?
 
 * How does a stakeholder answer "What does customer success look like?"
@@ -442,6 +436,17 @@ The pitch deck template below is a quick start:
 * How does an investor answer "Who should we be talking to about this"?
 
 * How does an investor answer "What gets you to yes to invest now"?
+
+
+### Questions for customers and prospects
+
+* How are you solving the problem now?
+
+* What is the process for you to buy now?
+
+* Who do you know who needs this now?
+
+* Can you introduce us to others now?
 
 
 ### Preparation improvements
