@@ -431,12 +431,6 @@ The pitch deck template below is a quick start:
 
 * How does a stakeholder answer "What are the most important next steps?"
 
-* How does an investor answer "What is the #1 way to improve the pitch"?
-
-* How does an investor answer "Who should we be talking to about this"?
-
-* How does an investor answer "What gets you to yes to invest now"?
-
 
 ### Questions for customers and prospects
 
@@ -447,6 +441,17 @@ The pitch deck template below is a quick start:
 * Who do you know who needs this now?
 
 * Can you introduce us to others now?
+
+
+## Questions for advisors and investors
+
+* Who should we be talking to about this?
+
+* What is the #1 way to improve the pitch?
+
+* What should be be asking, yet aren’t?
+
+* What can get you to yes, to help now?
 
 
 ### Preparation improvements
