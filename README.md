@@ -423,15 +423,6 @@ The pitch deck template below is a quick start:
 * Can you focus more on growth areas and less on sunk areas?
 
 
-### Validation after the presentation can improve your pitch
-
-* How does a stakeholder answer "Why now, why us, why this"?
-
-* How does a stakeholder answer "What does customer success look like?"
-
-* How does a stakeholder answer "What are the most important next steps?"
-
-
 ### Questions for customers and prospects
 
 * How are you solving the problem now?
@@ -443,6 +434,17 @@ The pitch deck template below is a quick start:
 * Can you introduce us to others now?
 
 
+## Questions for teammates and partners
+
+* What is our elevator pitch in 20 seconds?
+
+* How do you describe why now, why us, why this?
+
+* What does the next year of success look like?
+
+* What are the most critical next steps?
+
+
 ## Questions for advisors and investors
 
 * Who should we be talking to about this?
@@ -452,6 +454,7 @@ The pitch deck template below is a quick start:
 * What should be be asking, yet aren’t?
 
 * What can get you to yes, to help now?
+
 
 
 ### Preparation improvements
